@@ -1,4 +1,4 @@
-# Java to Full Stack & AI Portfolio 🚀
+ Java to Full Stack & AI Portfolio 🚀
 
 This repository showcases my progression from core Java projects to
 Full Stack and AI-enabled applications.
